@@ -42,6 +42,7 @@ cd prosobeast-annotation-tool  # navigate to folder
 python3 -m venv venv  # create environment
 source venv/bin/activate  # activate environment
 pip install -r requirements.txt  # install dependencies
+pip install icecream
 ```
 
 In order to use the integrated data spread calculation tool (see [Data Spread Calculation Tool](README.md#data-spread-calculation-tool) you need to additionally install:
