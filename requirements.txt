@@ -8,3 +8,4 @@ natsort
 tgt
 librosa
 tqdm
+Werkzeug==2.2.2
